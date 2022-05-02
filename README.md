@@ -1,9 +1,7 @@
 ## Django Text Chat
 This is a simple Text Chat App written in Django.
-Base for this project was tutorial on youtube:
+Base for this project was tutorial on youtube, but i did it using Django Channels:
 * https://www.youtube.com/watch?v=IpAk1Eu52GU&t=561s&ab_channel=CodeWithTomi
-But i did it using Django Channels
-
 
 ## Technologies
 Project is created with:
